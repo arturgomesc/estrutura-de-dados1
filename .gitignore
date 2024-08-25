@@ -1,0 +1,3 @@
+/exercicios/questao*
+!/exercicios/*.c
+!/exercicios/*.py
